@@ -1,0 +1,9 @@
+{
+  "intent_frequency": {
+    "scheme_query": 2,
+    "general_query": 2
+  },
+  "fallback_frequency": 0,
+  "unknown_intents": {},
+  "low_confidence_cases": 1
+}

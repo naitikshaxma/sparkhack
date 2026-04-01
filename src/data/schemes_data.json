@@ -1,0 +1,485 @@
+{
+  "SCHEME_KEYWORDS": {
+    "pm_kisan": [
+      "pm kisan",
+      "kisan",
+      "पीएम किसान",
+      "किसान"
+    ],
+    "ujjwala_yojana": [
+      "ujjwala",
+      "उज्ज्वला"
+    ],
+    "ayushman_bharat": [
+      "ayushman",
+      "आयुष्मान"
+    ],
+    "pm_awas_yojana": [
+      "pm awas",
+      "awas",
+      "आवास"
+    ],
+    "solar_rooftop": [
+      "solar rooftop",
+      "solar",
+      "सोलर"
+    ],
+    "startup_india": [
+      "startup india",
+      "startup"
+    ],
+    "skill_india": [
+      "skill india",
+      "skill"
+    ],
+    "mudra_loan": [
+      "mudra",
+      "मुद्रा"
+    ],
+    "atal_pension": [
+      "atal pension",
+      "अटल पेंशन"
+    ],
+    "fasal_bima": [
+      "fasal bima",
+      "fasal",
+      "फसल बीमा",
+      "फसल"
+    ],
+    "digital_india": [
+      "digital india",
+      "digital",
+      "डिजिटल इंडिया"
+    ],
+    "swachh_bharat": [
+      "swachh bharat",
+      "swachh",
+      "स्वच्छ भारत",
+      "स्वच्छ"
+    ],
+    "standup_india": [
+      "standup india",
+      "stand up india",
+      "standup",
+      "स्टैंडअप इंडिया"
+    ],
+    "scholarship_scheme": [
+      "scholarship",
+      "स्कॉलरशिप",
+      "छात्रवृत्ति"
+    ],
+    "housing_scheme": [
+      "housing scheme",
+      "housing",
+      "हाउसिंग योजना",
+      "हाउसिंग"
+    ],
+    "jal_jeevan_mission": [
+      "jal jeevan",
+      "tap water mission",
+      "नल जल मिशन"
+    ],
+    "one_nation_one_ration": [
+      "ration portability",
+      "one nation one ration",
+      "राशन पोर्टेबिलिटी"
+    ],
+    "svamitva_scheme": [
+      "svamitva",
+      "property card",
+      "स्वामित्व कार्ड"
+    ],
+    "sugamya_bharat": [
+      "sugamya bharat",
+      "accessible india",
+      "सुगम्य भारत"
+    ],
+    "rashtriya_vayoshri": [
+      "vayoshri",
+      "senior assist kit",
+      "वयोश्री"
+    ],
+    "pm_janman": [
+      "janman",
+      "pvtg support",
+      "जनमन"
+    ],
+    "pm_poshan": [
+      "pm poshan",
+      "midday meal",
+      "मिड डे मील"
+    ],
+    "eshram_portal": [
+      "eshram",
+      "unorganized worker card",
+      "ई श्रम"
+    ],
+    "ecourts_services": [
+      "ecourts",
+      "case status portal",
+      "ई कोर्ट"
+    ],
+    "cyber_safe_helpline": [
+      "cyber 1930",
+      "online fraud report",
+      "साइबर 1930"
+    ],
+    "tb_mukt_campaign": [
+      "tb mukt",
+      "nikshay",
+      "टीबी मुक्त"
+    ],
+    "amrit_sarovar": [
+      "amrit sarovar",
+      "pond revival",
+      "अमृत सरोवर"
+    ],
+    "pm_ebus_sewa": [
+      "ebus sewa",
+      "electric city bus",
+      "ईबस सेवा"
+    ],
+    "voter_id_services": [
+      "voter id update",
+      "nvsp",
+      "मतदाता अपडेट"
+    ],
+    "passport_seva": [
+      "passport seva",
+      "psk appointment",
+      "पासपोर्ट सेवा"
+    ]
+  },
+  "SCHEME_DATA": {
+    "pm_kisan": {
+      "title_en": "PM Kisan",
+      "title_hi": "पीएम किसान",
+      "description_en": "PM Kisan gives farmer families Rs 6000 per year in three direct bank installments after land and identity verification.\nThe support helps manage crop-season expenses like seeds, fertilizer, irrigation, and small urgent household needs.",
+      "benefit_en": "Eligible farmers receive three DBT installments of Rs 2000 each every year.",
+      "eligibility_en": "Farmer households with cultivable land recorded in state records and an Aadhaar-linked bank account can enroll.\nIncome taxpayers, institutional landholders, and excluded government service categories cannot receive payment.",
+      "apply_en": "Complete registration on PM-KISAN portal or CSC using Aadhaar, land details, and correct bank account information.\nFinish eKYC and record validation, then check beneficiary status until installments are credited.",
+      "description_hi": "पीएम किसान योजना में सत्यापित किसान परिवारों को सालाना 6000 रुपये तीन किश्तों में सीधे बैंक खाते में भेजे जाते हैं।\nयह सहायता बीज, खाद, सिंचाई और खेती के मौसम में जरूरी खर्च संभालने में काम आती है।",
+      "benefit_hi": "पात्र किसानों को हर साल 2000 रुपये की तीन DBT किश्तें मिलती हैं।",
+      "eligibility_hi": "जिन किसान परिवारों की कृषि भूमि सरकारी रिकॉर्ड में दर्ज है और बैंक खाता आधार से जुड़ा है, वे पात्र हैं।\nआयकर दाता, संस्थागत भूमि धारक और कुछ सरकारी सेवा श्रेणियां इस योजना में शामिल नहीं होतीं।",
+      "apply_hi": "PM-KISAN पोर्टल या CSC पर आधार, भूमि विवरण और सही बैंक जानकारी के साथ पंजीकरण करें।\neKYC और रिकॉर्ड सत्यापन पूरा होने के बाद पोर्टल पर स्थिति देखते रहें जब तक किश्त खाते में न आ जाए।"
+    },
+    "ujjwala_yojana": {
+      "title_en": "Ujjwala Yojana",
+      "title_hi": "उज्ज्वला योजना",
+      "description_en": "Ujjwala Yojana provides deposit-free LPG connections to eligible low-income women, with connection support around Rs 1600.\nIt reduces smoke-heavy chulha cooking and improves kitchen safety, breathing health, and daily cooking comfort.",
+      "benefit_en": "The scheme reduces initial LPG connection burden for approved households.",
+      "eligibility_en": "Adult women from listed low-income households with valid identity and residence proof can apply for a new LPG connection.\nFamilies that already hold a domestic LPG connection in the same household are normally not approved.",
+      "apply_en": "Apply at an authorized LPG distributor with Aadhaar, ration card, bank details, and household declaration forms.\nAfter KYC and verification, the connection is released and related support is provided as per current norms.",
+      "description_hi": "उज्ज्वला योजना के तहत पात्र गरीब परिवार की महिलाओं को लगभग 1600 रुपये सहायता के साथ नया एलपीजी कनेक्शन दिया जाता है।\nइससे धुएं वाले चूल्हे पर निर्भरता घटती है और रसोई में सुरक्षा, स्वास्थ्य और सुविधा बढ़ती है।",
+      "benefit_hi": "यह योजना गैस कनेक्शन की शुरुआती लागत का बोझ कम करती है।",
+      "eligibility_hi": "स्वीकृत कम-आय परिवार की वयस्क महिला, सही पहचान और पता प्रमाण के साथ आवेदन कर सकती है।\nयदि उसी परिवार में पहले से घरेलू एलपीजी कनेक्शन है तो सामान्यतः नया लाभ मंजूर नहीं होता।",
+      "apply_hi": "अधिकृत गैस एजेंसी पर आधार, राशन कार्ड, बैंक विवरण और परिवार घोषणा के साथ आवेदन जमा करें।\nKYC और सत्यापन पूरा होने के बाद कनेक्शन जारी होता है और लागू नियमों के अनुसार आगे की सुविधा मिलती है।"
+    },
+    "ayushman_bharat": {
+      "title_en": "Ayushman Bharat",
+      "title_hi": "आयुष्मान भारत",
+      "description_en": "Ayushman Bharat PM-JAY gives listed families hospital coverage up to Rs 5 lakh per year at empaneled centers.\nIt lowers large treatment expenses for serious illness, surgery, and emergency admission through cashless packages.",
+      "benefit_en": "Approved families can receive cashless hospital treatment within the yearly package cap.",
+      "eligibility_en": "Families identified in PM-JAY database under approved deprivation or occupational criteria can use this health cover.\nRecord match and valid identity details are required at the time of card generation and hospital admission.",
+      "apply_en": "Check name on PM-JAY portal or CSC, verify identity, and generate Ayushman card before treatment need.\nVisit an empaneled hospital and complete package authorization steps to receive cashless care.",
+      "description_hi": "आयुष्मान भारत PM-JAY में सूचीबद्ध परिवारों को पैनल अस्पतालों में सालाना 5 लाख रुपये तक इलाज कवर मिलता है।\nयह गंभीर बीमारी, सर्जरी और इमरजेंसी में बड़े इलाज खर्च को कैशलेस पैकेज के जरिए कम करता है।",
+      "benefit_hi": "स्वीकृत परिवार वार्षिक सीमा के भीतर कैशलेस अस्पताल सेवा ले सकते हैं।",
+      "eligibility_hi": "PM-JAY डेटाबेस में स्वीकृत वंचना या पेशागत श्रेणी में दर्ज परिवार इस योजना का लाभ ले सकते हैं।\nकार्ड बनवाने और अस्पताल में भर्ती के समय रिकॉर्ड मिलान और वैध पहचान विवरण जरूरी होता है।",
+      "apply_hi": "PM-JAY पोर्टल या CSC पर नाम जांचकर पहचान सत्यापन कराएं और आयुष्मान कार्ड बनवाएं।\nसूचीबद्ध अस्पताल में जाकर पैकेज अनुमोदन प्रक्रिया पूरी करें, फिर कैशलेस इलाज प्राप्त करें।"
+    },
+    "pm_awas_yojana": {
+      "title_en": "PM Awas Yojana",
+      "title_hi": "पीएम आवास योजना",
+      "description_en": "PM Awas Yojana supports pucca housing through grant and subsidy routes, including around Rs 1.20 lakh in many rural plain areas.\nUrban credit-linked components can reduce home-loan interest burden and improve long-term EMI affordability.",
+      "benefit_en": "Beneficiaries receive approved housing grant or interest subsidy based on category rules.",
+      "eligibility_en": "Households in eligible income bands without a pucca house and matching category conditions can apply under PMAY.\nIncome proof, family ownership status, and local authority verification decide final approval.",
+      "apply_en": "Submit application on PMAY portal or local authority desk with Aadhaar, income, address, and property details.\nAfter verification and category mapping, assistance is released in linked stages as per guidelines.",
+      "description_hi": "पीएम आवास योजना में पात्र परिवारों को पक्का घर बनाने या खरीदने के लिए अनुदान और सब्सिडी सहायता दी जाती है, जिसमें ग्रामीण क्षेत्रों में कई मामलों में लगभग 1.20 लाख रुपये तक सहायता मिलती है।\nशहरी श्रेणी में ब्याज राहत से होम लोन EMI का दबाव लंबी अवधि में काफी कम हो सकता है।",
+      "benefit_hi": "श्रेणी के अनुसार स्वीकृत आवेदकों को आवास अनुदान या ब्याज सब्सिडी मिलती है।",
+      "eligibility_hi": "पात्र आय वर्ग के वे परिवार जिनके पास पक्का घर नहीं है और योजना की श्रेणी शर्तें पूरी होती हैं, आवेदन कर सकते हैं।\nअंतिम स्वीकृति आय दस्तावेज, परिवार स्वामित्व स्थिति और स्थानीय सत्यापन के आधार पर तय होती है।",
+      "apply_hi": "PMAY पोर्टल या स्थानीय निकाय केंद्र पर आधार, आय, पता और संपत्ति विवरण के साथ आवेदन करें।\nसत्यापन और श्रेणी निर्धारण के बाद दिशा-निर्देश के अनुसार चरणबद्ध सहायता जारी की जाती है।"
+    },
+    "solar_rooftop": {
+      "title_en": "Solar Rooftop",
+      "title_hi": "सोलर रूफटॉप",
+      "description_en": "Solar Rooftop scheme supports home solar systems with subsidy rates that can reach up to 40 percent for smaller approved capacities.\nIt cuts monthly electricity bills and improves daytime power reliability over the system lifetime.",
+      "benefit_en": "Eligible households get subsidy support on approved rooftop solar installation.",
+      "eligibility_en": "Residential users with a suitable shadow-free roof, valid electricity connection, and technical feasibility from DISCOM can apply.\nOnly approved vendor installation and required net-metering compliance qualify for subsidy release.",
+      "apply_en": "Register on the national rooftop portal, choose DISCOM and empaneled vendor, then upload identity and bill details.\nComplete feasibility, installation, and inspection steps before subsidy credit is processed.",
+      "description_hi": "सोलर रूफटॉप योजना में पात्र घरेलू उपभोक्ताओं को छोटी स्वीकृत क्षमता पर 40 प्रतिशत तक सब्सिडी सहायता मिल सकती है।\nइससे मासिक बिजली बिल घटता है और दिन के समय बिजली उपलब्धता अधिक स्थिर रहती है।",
+      "benefit_hi": "स्वीकृत स्थापना पर घरेलू उपभोक्ताओं को रूफटॉप सब्सिडी सहायता मिलती है।",
+      "eligibility_hi": "उपयुक्त छत, वैध बिजली कनेक्शन और DISCOM की तकनीकी स्वीकृति वाले आवासीय उपभोक्ता आवेदन कर सकते हैं।\nसब्सिडी के लिए अनुमोदित विक्रेता द्वारा स्थापना और नेट मीटरिंग अनुपालन आवश्यक है।",
+      "apply_hi": "राष्ट्रीय रूफटॉप पोर्टल पर पंजीकरण कर DISCOM और अनुमोदित विक्रेता चुनें, फिर पहचान और बिजली बिल विवरण अपलोड करें।\nतकनीकी स्वीकृति, स्थापना और निरीक्षण पूरा होने के बाद सब्सिडी क्रेडिट प्रक्रिया शुरू होती है।"
+    },
+    "startup_india": {
+      "title_en": "Startup India",
+      "title_hi": "स्टार्टअप इंडिया",
+      "description_en": "Startup India supports innovation-led companies through DPIIT recognition, policy facilitation, and startup ecosystem services.\nRecognized entities may access benefits like tax-window relief, IP support, and easier government procurement pathways.",
+      "benefit_en": "DPIIT recognition opens access to startup-focused policy and ecosystem support.",
+      "eligibility_en": "Entities within prescribed age and turnover limits with innovative and scalable business models can seek recognition.\nBusinesses formed by splitting existing firms are not treated as eligible for this recognition route.",
+      "apply_en": "Create account on Startup India platform and upload incorporation papers, innovation note, and required declarations.\nAfter DPIIT review and approval, recognition certificate is issued for using related benefits.",
+      "description_hi": "स्टार्टअप इंडिया नवाचार आधारित कंपनियों को DPIIT मान्यता, नीति सुविधा और इकोसिस्टम सहयोग के माध्यम से बढ़ावा देता है।\nमान्यता मिलने पर कर राहत विंडो, बौद्धिक संपदा सहायता और सरकारी खरीद में आसान अवसर मिल सकते हैं।",
+      "benefit_hi": "DPIIT मान्यता से स्टार्टअप को नीति और इकोसिस्टम आधारित विशेष सहयोग मिलता है।",
+      "eligibility_hi": "निर्धारित आयु और टर्नओवर सीमा के भीतर नवाचार तथा स्केलेबल मॉडल वाली इकाइयां मान्यता के लिए आवेदन कर सकती हैं।\nमौजूदा व्यवसाय को बांटकर बनाई गई इकाई सामान्यतः इस मान्यता मार्ग में पात्र नहीं मानी जाती।",
+      "apply_hi": "Startup India प्लेटफॉर्म पर खाता बनाकर कंपनी पंजीकरण दस्तावेज, नवाचार नोट और आवश्यक घोषणा अपलोड करें।\nDPIIT समीक्षा के बाद स्वीकृति मिलने पर मान्यता प्रमाणपत्र जारी किया जाता है।"
+    },
+    "skill_india": {
+      "title_en": "Skill India",
+      "title_hi": "स्किल इंडिया",
+      "description_en": "Skill India delivers job-oriented training in sectors like retail, healthcare, construction, and electronics through approved centers.\nCourse completion with assessment can improve employability and formal placement chances for youth.",
+      "benefit_en": "Participants receive structured skill training and recognized certification pathways.",
+      "eligibility_en": "Youth meeting course-specific age, education, and category criteria can enroll in notified skilling programs.\nIdentity documents and required attendance plus assessment compliance are necessary for final certification.",
+      "apply_en": "Choose a course through official skill portal or authorized center and complete registration with education details.\nAttend classes, pass assessment, and collect certificate with placement support updates.",
+      "description_hi": "स्किल इंडिया योजना के तहत रिटेल, हेल्थकेयर, कंस्ट्रक्शन और इलेक्ट्रॉनिक्स जैसे क्षेत्रों में रोजगारोन्मुख प्रशिक्षण दिया जाता है।\nकोर्स और आकलन पूरा करने पर युवाओं की नौकरी क्षमता और औपचारिक प्लेसमेंट संभावना बढ़ती है।",
+      "benefit_hi": "प्रतिभागियों को संरचित कौशल प्रशिक्षण और मान्य प्रमाणन मार्ग मिलता है।",
+      "eligibility_hi": "कोर्स के अनुसार आयु, शैक्षणिक योग्यता और श्रेणी शर्तें पूरी करने वाले युवा नामांकन कर सकते हैं।\nअंतिम प्रमाणपत्र के लिए पहचान दस्तावेज, उपस्थिति और आकलन अनुपालन जरूरी होता है।",
+      "apply_hi": "आधिकारिक स्किल पोर्टल या अधिकृत केंद्र से कोर्स चुनकर शैक्षणिक विवरण के साथ पंजीकरण करें।\nप्रशिक्षण पूरा करें, आकलन पास करें और प्रमाणपत्र के साथ प्लेसमेंट जानकारी प्राप्त करें।"
+    },
+    "mudra_loan": {
+      "title_en": "Mudra Loan",
+      "title_hi": "मुद्रा लोन",
+      "description_en": "Mudra provides business credit up to Rs 10 lakh for micro units under Shishu, Kishore, and Tarun categories.\nThe amount can support inventory, machines, expansion, and day-to-day enterprise operations.",
+      "benefit_en": "Small enterprises can access category-based business credit with manageable entry conditions.",
+      "eligibility_en": "Non-corporate micro and small business operators in manufacturing, trading, or services with workable plans can apply.\nLenders evaluate KYC, repayment capacity, and projected cash flow before sanction.",
+      "apply_en": "Visit partner bank or NBFC with business plan, identity papers, and account statements for loan request.\nAfter appraisal and verification, sanctioned amount is disbursed with agreed repayment schedule.",
+      "description_hi": "मुद्रा लोन योजना में सूक्ष्म व्यवसायों को शिशु, किशोर और तरुण श्रेणियों के तहत 10 लाख रुपये तक का व्यवसाय ऋण मिल सकता है।\nयह राशि स्टॉक, मशीन, विस्तार और रोजमर्रा के व्यावसायिक संचालन में उपयोग की जा सकती है।",
+      "benefit_hi": "छोटे उद्यमियों को श्रेणी आधारित व्यवसाय ऋण तक पहुंच मिलती है।",
+      "eligibility_hi": "उत्पादन, व्यापार या सेवा क्षेत्र के गैर-कॉर्पोरेट सूक्ष्म और लघु व्यवसाय उपयुक्त योजना के साथ आवेदन कर सकते हैं।\nबैंक KYC, पुनर्भुगतान क्षमता और अनुमानित नकदी प्रवाह देखकर स्वीकृति तय करता है।",
+      "apply_hi": "साझेदार बैंक या NBFC में व्यवसाय योजना, पहचान दस्तावेज और खाते का विवरण देकर आवेदन करें।\nमूल्यांकन और सत्यापन के बाद स्वीकृत राशि तय पुनर्भुगतान अनुसूची के साथ जारी होती है।"
+    },
+    "atal_pension": {
+      "title_en": "Atal Pension",
+      "title_hi": "अटल पेंशन",
+      "description_en": "Atal Pension Yojana offers guaranteed monthly pension options from Rs 1000 to Rs 5000 after age 60 for subscribers.\nContribution amount depends on joining age and selected pension slab, so earlier enrollment lowers monthly burden.",
+      "benefit_en": "Subscribers receive fixed pension after retirement age according to selected slab.",
+      "eligibility_en": "Indian citizens aged 18 to 40 with a savings account and auto-debit consent can enroll in APY.\nRegular contribution continuity and compliant KYC status are required to keep account active.",
+      "apply_en": "Submit APY form at bank or digital channel, choose pension slab, and register nominee details correctly.\nEnable monthly auto-debit and continue contribution until age 60 to receive pension payout.",
+      "description_hi": "अटल पेंशन योजना में सदस्य को 60 वर्ष के बाद 1000 रुपये से 5000 रुपये तक गारंटीड मासिक पेंशन विकल्प मिलते हैं।\nअंशदान राशि प्रवेश आयु और चुने गए पेंशन स्लैब पर निर्भर करती है, इसलिए जल्दी जुड़ना लाभकारी रहता है।",
+      "benefit_hi": "सदस्य को चुने गए स्लैब के अनुसार सेवानिवृत्ति के बाद निश्चित पेंशन मिलती है।",
+      "eligibility_hi": "18 से 40 वर्ष आयु के भारतीय नागरिक जिनके पास बचत खाता और ऑटो-डेबिट सहमति है, APY में शामिल हो सकते हैं।\nखाता सक्रिय रखने के लिए नियमित अंशदान और KYC अनुपालन आवश्यक है।",
+      "apply_hi": "बैंक शाखा या डिजिटल माध्यम से APY फॉर्म भरें, पेंशन स्लैब चुनें और नामिनी विवरण दर्ज करें।\nमासिक ऑटो-डेबिट सक्रिय करें और 60 वर्ष तक अंशदान जारी रखें ताकि पेंशन प्राप्त हो सके।"
+    },
+    "fasal_bima": {
+      "title_en": "Fasal Bima",
+      "title_hi": "फसल बीमा",
+      "description_en": "PM Fasal Bima protects notified crops from weather and natural risk, with farmer premium rates like 2 percent for Kharif and 1.5 percent for Rabi.\nGovernment shares remaining premium burden, helping farmers recover income after severe crop loss.",
+      "benefit_en": "Farmers get risk coverage on notified crops with low farmer-side premium share.",
+      "eligibility_en": "Loanee and non-loanee cultivators growing notified crops in notified areas during enrollment period can join.\nSowing proof, land or cultivation details, and timely premium submission are compulsory for claims.",
+      "apply_en": "Enroll through bank, CSC, or insurer portal before deadline using crop, land, and identity details.\nReport crop damage within the prescribed window and complete survey process for claim settlement.",
+      "description_hi": "प्रधानमंत्री फसल बीमा योजना में अधिसूचित फसलों पर मौसम और प्राकृतिक जोखिम से सुरक्षा दी जाती है, जहां किसान प्रीमियम दरें जैसे खरीफ 2 प्रतिशत और रबी 1.5 प्रतिशत रहती हैं।\nशेष प्रीमियम का हिस्सा सरकार वहन करती है, जिससे नुकसान के बाद किसानों को आय संभालने में मदद मिलती है।",
+      "benefit_hi": "किसानों को कम प्रीमियम हिस्सेदारी पर अधिसूचित फसलों का जोखिम कवर मिलता है।",
+      "eligibility_hi": "नामांकन अवधि में अधिसूचित क्षेत्र की अधिसूचित फसल उगाने वाले ऋणी और गैर-ऋणी किसान शामिल हो सकते हैं।\nदावा मान्य होने के लिए बुवाई प्रमाण, भूमि या खेती विवरण और समय पर प्रीमियम जमा जरूरी है।",
+      "apply_hi": "अंतिम तिथि से पहले बैंक, CSC या बीमा पोर्टल पर फसल, भूमि और पहचान विवरण देकर नामांकन करें।\nनुकसान होने पर निर्धारित समय सीमा में सूचना दें और सर्वे प्रक्रिया पूरी करके दावा निपटान प्राप्त करें।"
+    },
+    "digital_india": {
+      "title_en": "Digital India",
+      "title_hi": "डिजिटल इंडिया",
+      "description_en": "Digital India expands access to services through platforms like DigiLocker, eDistrict, and online certificate workflows.\nIt reduces repeated office visits, paperwork delay, and service transaction friction for citizens.",
+      "benefit_en": "Citizens get faster, trackable, and document-light digital public service access.",
+      "eligibility_en": "Any resident with valid identity details and required service documents can use most digital service portals.\nSome services additionally require Aadhaar-based authentication and OTP verified mobile linkage.",
+      "apply_en": "Create account on the relevant official portal, complete profile verification, and upload prescribed documents.\nSubmit service request and follow online status updates until final approval or correction closure.",
+      "description_hi": "डिजिटल इंडिया से DigiLocker, eDistrict और ऑनलाइन प्रमाणपत्र सेवाओं के जरिए सरकारी कामकाज तक पहुंच आसान होती है।\nइससे कार्यालय के बार-बार चक्कर, कागजी देरी और सेवा प्रक्रिया की रुकावट कम होती है।",
+      "benefit_hi": "नागरिकों को तेज, ट्रैक करने योग्य और कम कागजी डिजिटल सेवा सुविधा मिलती है।",
+      "eligibility_hi": "वैध पहचान और सेवा-विशिष्ट दस्तावेज रखने वाला निवासी अधिकांश सरकारी डिजिटल पोर्टल का उपयोग कर सकता है।\nकुछ सेवाओं में आधार प्रमाणीकरण और OTP सत्यापित मोबाइल लिंक अनिवार्य होता है।",
+      "apply_hi": "संबंधित आधिकारिक पोर्टल पर खाता बनाकर प्रोफाइल सत्यापन पूरा करें और आवश्यक दस्तावेज अपलोड करें।\nसेवा अनुरोध जमा करके ऑनलाइन स्थिति देखते रहें जब तक अंतिम स्वीकृति या सुधार पूरा न हो जाए।"
+    },
+    "swachh_bharat": {
+      "title_en": "Swachh Bharat",
+      "title_hi": "स्वच्छ भारत",
+      "description_en": "Swachh Bharat Mission supports sanitation outcomes, including toilet construction incentive around Rs 12000 in many eligible rural cases.\nIt strengthens hygiene behavior, cleaner surroundings, and disease-risk reduction at household and community levels.",
+      "benefit_en": "Approved households and local bodies receive sanitation-linked implementation support.",
+      "eligibility_en": "Rural households without functional toilets and mapped beneficiaries under mission criteria can receive assistance.\nEligibility depends on baseline records, category norms, and physical verification by local authorities.",
+      "apply_en": "Register at gram panchayat or urban local body with household details and required sanitation documents.\nAfter field verification and approved progress, incentive amount is released as per mission process.",
+      "description_hi": "स्वच्छ भारत मिशन के तहत स्वच्छता सुधार के लिए सहायता दी जाती है, जिसमें ग्रामीण पात्र परिवारों को कई मामलों में शौचालय निर्माण पर लगभग 12000 रुपये प्रोत्साहन मिलता है।\nयह योजना साफ-सफाई की आदत मजबूत करती है और परिवार तथा समुदाय स्तर पर बीमारी का जोखिम घटाती है।",
+      "benefit_hi": "स्वीकृत परिवारों और निकायों को स्वच्छता कार्यान्वयन से जुड़ा सहयोग मिलता है।",
+      "eligibility_hi": "जिन ग्रामीण परिवारों के पास उपयोगी शौचालय नहीं है और जो मिशन मानदंड में सूचीबद्ध हैं, वे सहायता के पात्र हो सकते हैं।\nअंतिम पात्रता बेसलाइन रिकॉर्ड, श्रेणी नियम और स्थानीय सत्यापन पर निर्भर करती है।",
+      "apply_hi": "ग्राम पंचायत या शहरी निकाय में परिवार विवरण और आवश्यक स्वच्छता दस्तावेज के साथ पंजीकरण करें।\nमैदानी सत्यापन और प्रगति मंजूरी के बाद मिशन प्रक्रिया अनुसार प्रोत्साहन राशि जारी होती है।"
+    },
+    "standup_india": {
+      "title_en": "Standup India",
+      "title_hi": "स्टैंडअप इंडिया",
+      "description_en": "Standup India enables bank loans from Rs 10 lakh to Rs 1 crore for SC/ST and women-led greenfield enterprises.\nIt improves formal credit access for first-generation entrepreneurs starting new business operations.",
+      "benefit_en": "Eligible founders can access higher-ticket institutional business credit.",
+      "eligibility_en": "SC/ST or women entrepreneurs above 18 years planning a new greenfield enterprise with required ownership can apply.\nFinal sanction depends on project viability, credit profile, margin contribution, and lender due diligence.",
+      "apply_en": "Apply via Standup India portal or participating bank branch with project report and identity documents.\nComplete appraisal formalities and execute sanction terms before disbursement and repayment schedule activation.",
+      "description_hi": "स्टैंडअप इंडिया के तहत SC/ST और महिला उद्यमियों को नए ग्रीनफील्ड व्यवसाय के लिए 10 लाख से 1 करोड़ रुपये तक बैंक ऋण सुविधा मिल सकती है।\nयह योजना पहली बार उद्यम शुरू करने वालों को औपचारिक क्रेडिट तक पहुंच दिलाने में मदद करती है।",
+      "benefit_hi": "पात्र उद्यमियों को उच्च राशि वाला संस्थागत व्यवसाय ऋण उपलब्ध हो सकता है।",
+      "eligibility_hi": "18 वर्ष से ऊपर SC/ST या महिला उद्यमी, आवश्यक स्वामित्व शर्तों के साथ नया ग्रीनफील्ड उद्यम शुरू करने पर आवेदन कर सकते हैं।\nअंतिम स्वीकृति परियोजना व्यवहार्यता, क्रेडिट प्रोफाइल, मार्जिन योगदान और बैंक जांच पर आधारित होती है।",
+      "apply_hi": "Standup India पोर्टल या भागीदार बैंक शाखा में परियोजना रिपोर्ट और पहचान दस्तावेज के साथ आवेदन करें।\nमूल्यांकन प्रक्रिया पूरी करके स्वीकृति शर्तें स्वीकार करें, फिर राशि जारी और पुनर्भुगतान अनुसूची सक्रिय होती है।"
+    },
+    "scholarship_scheme": {
+      "title_en": "Scholarship Scheme",
+      "title_hi": "स्कॉलरशिप योजना",
+      "description_en": "Scholarship programs provide study support where annual amount can range from about Rs 10000 to Rs 50000 based on category and level.\nThis support helps students continue tuition, exam, and study-material expenses without severe financial disruption.",
+      "benefit_en": "Students receive category-linked educational monetary support after verification.",
+      "eligibility_en": "Students meeting academic threshold, family income limit, and category or institution rules can submit applications.\nValid admission proof, marksheets, and authenticated documents are required for sanction.",
+      "apply_en": "Register on the relevant scholarship portal, fill profile, and upload income, category, and academic documents.\nSubmit before deadline and track institute, district, and nodal verification stages until payment.",
+      "description_hi": "स्कॉलरशिप योजनाओं में श्रेणी और अध्ययन स्तर के अनुसार लगभग 10000 से 50000 रुपये तक वार्षिक सहायता मिल सकती है।\nयह समर्थन ट्यूशन, परीक्षा और अध्ययन सामग्री खर्च जारी रखने में छात्रों की पढ़ाई नहीं रुकने देता।",
+      "benefit_hi": "दस्तावेज सत्यापन के बाद छात्रों को श्रेणी आधारित शैक्षिक राशि मिलती है।",
+      "eligibility_hi": "जो छात्र शैक्षणिक मानदंड, परिवार आय सीमा और श्रेणी या संस्थान नियम पूरे करते हैं, वे आवेदन कर सकते हैं।\nस्वीकृति के लिए वैध प्रवेश प्रमाण, मार्कशीट और प्रमाणित दस्तावेज अनिवार्य हैं।",
+      "apply_hi": "संबंधित स्कॉलरशिप पोर्टल पर पंजीकरण करके प्रोफाइल भरें और आय, श्रेणी, शैक्षणिक दस्तावेज अपलोड करें।\nअंतिम तिथि से पहले आवेदन जमा करें और संस्थान से नोडल स्तर तक सत्यापन स्थिति ट्रैक करें।"
+    },
+    "housing_scheme": {
+      "title_en": "Housing Scheme",
+      "title_hi": "हाउसिंग योजना",
+      "description_en": "Housing support programs reduce upfront home cost through grant or subsidy, often in the range of Rs 1.5 lakh to Rs 2.5 lakh in eligible cases.\nThey improve access to safer permanent housing and reduce long-term repayment stress for low and middle-income families.",
+      "benefit_en": "Eligible families receive housing grant, subsidy, or interest relief according to program rules.",
+      "eligibility_en": "Applicants from notified income groups without adequate pucca housing and with valid ownership declarations can apply.\nIncome proof, residence status, and local verification determine final assistance bracket.",
+      "apply_en": "Apply through designated housing portal, municipal office, or approved facilitation center with identity and income documents.\nAfter verification and beneficiary approval, funds are released in linked construction or loan stages.",
+      "description_hi": "हाउसिंग सहायता योजनाएं पात्र परिवारों की घर की शुरुआती लागत को अनुदान या सब्सिडी से घटाती हैं, जहां कई मामलों में 1.5 लाख से 2.5 लाख रुपये तक राहत मिल सकती है।\nइनसे सुरक्षित पक्का आवास तक पहुंच बढ़ती है और निम्न-मध्यम आय परिवारों पर लंबी अवधि का भुगतान दबाव कम होता है।",
+      "benefit_hi": "पात्र परिवारों को योजना नियमों के अनुसार आवास अनुदान, सब्सिडी या ब्याज राहत मिलती है।",
+      "eligibility_hi": "सूचित आय वर्ग के वे आवेदक जिनके पास पर्याप्त पक्का घर नहीं है और स्वामित्व घोषणा मान्य है, आवेदन कर सकते हैं।\nअंतिम सहायता श्रेणी आय प्रमाण, निवास स्थिति और स्थानीय सत्यापन के आधार पर तय होती है।",
+      "apply_hi": "निर्धारित हाउसिंग पोर्टल, नगर कार्यालय या अधिकृत केंद्र पर पहचान और आय दस्तावेज के साथ आवेदन जमा करें।\nसत्यापन और लाभार्थी स्वीकृति के बाद निर्माण या लोन चरण के अनुसार राशि जारी की जाती है।"
+    },
+    "jal_jeevan_mission": {
+      "title_en": "Jal Jeevan Mission",
+      "title_hi": "जल जीवन मिशन",
+      "description_en": "Jal Jeevan Mission connects rural homes with functional tap water and regular village supply systems.\nIt reduces time spent on water collection and improves household hygiene and drinking safety.",
+      "description_hi": "जल जीवन मिशन का लक्ष्य ग्रामीण घरों तक काम करने वाला नल कनेक्शन और नियमित जल आपूर्ति पहुंचाना है।\nइससे पानी लाने में लगने वाला समय घटता है और घर की स्वच्छता तथा पीने का सुरक्षा स्तर बढ़ता है।",
+      "eligibility_en": "Rural households in approved villages without assured tap connection can be covered under local implementation plans.\nFinal inclusion is based on village survey list and panchayat verification records.",
+      "eligibility_hi": "स्वीकृत गांवों के वे ग्रामीण घर जिनके पास भरोसेमंद नल कनेक्शन नहीं है, स्थानीय योजना में शामिल किए जा सकते हैं।\nअंतिम चयन ग्राम सर्वे सूची और पंचायत सत्यापन रिकॉर्ड के आधार पर तय होता है।",
+      "apply_en": "Contact village water committee or panchayat office and request household entry in the active tap connection list.\nComplete local formality and track installation status during village execution phase.",
+      "apply_hi": "गांव की जल समिति या पंचायत कार्यालय में संपर्क करके घर का नाम सक्रिय नल कनेक्शन सूची में दर्ज कराएं।\nस्थानीय प्रक्रिया पूरी करें और कार्यान्वयन अवधि में स्थापना की स्थिति नियमित जांचें।"
+    },
+    "one_nation_one_ration": {
+      "title_en": "One Nation One Ration",
+      "title_hi": "वन नेशन वन राशन",
+      "description_en": "One Nation One Ration allows ration pickup from any enabled fair price shop across states using portability.\nIt helps migrant families continue food grain access when they move for work.",
+      "description_hi": "वन नेशन वन राशन से पोर्टेबिलिटी के जरिए किसी भी सक्षम राशन दुकान से अनाज लिया जा सकता है।\nकाम के लिए स्थान बदलने वाले परिवारों को इससे सार्वजनिक वितरण का लाभ जारी रहता है।",
+      "eligibility_en": "Households with active ration card in NFSA-enabled system and linked member authentication can use portability.\nCard status must be valid and not suspended in the home state record.",
+      "eligibility_hi": "NFSA सक्षम प्रणाली में सक्रिय राशन कार्ड और सदस्य प्रमाणीकरण वाले परिवार पोर्टेबिलिटी उपयोग कर सकते हैं।\nकार्ड की स्थिति गृह राज्य रिकॉर्ड में वैध होनी चाहिए और निलंबित नहीं होनी चाहिए।",
+      "apply_en": "Visit nearest enabled ration shop with ration card details and complete member authentication at ePOS device.\nCollect entitlement as per monthly quota and keep transaction slip for tracking.",
+      "apply_hi": "नजदीकी सक्षम राशन दुकान पर कार्ड विवरण के साथ जाएं और ePOS मशीन पर सदस्य प्रमाणीकरण पूरा करें।\nमासिक कोटा के अनुसार अनाज लें और रिकॉर्ड के लिए लेनदेन पर्ची सुरक्षित रखें।"
+    },
+    "svamitva_scheme": {
+      "title_en": "SVAMITVA",
+      "title_hi": "स्वामित्व",
+      "description_en": "SVAMITVA provides property cards in rural abadi areas using drone survey and mapped land records.\nIt gives clear household ownership documents for local record use and service access.",
+      "description_hi": "स्वामित्व योजना में ड्रोन सर्वे और नक्शा आधारित रिकॉर्ड से गांव आबादी क्षेत्र की संपत्ति कार्ड जारी किए जाते हैं।\nइससे परिवार को स्पष्ट स्वामित्व दस्तावेज मिलता है जो स्थानीय रिकॉर्ड और सेवाओं में काम आता है।",
+      "eligibility_en": "Residents of surveyed rural abadi areas whose parcel details are recorded in village map process can receive cards.\nIssue depends on state rollout stage and village-level verification completion.",
+      "eligibility_hi": "सर्वे किए गए ग्रामीण आबादी क्षेत्र के वे निवासी जिनका प्लॉट विवरण गांव नक्शा प्रक्रिया में दर्ज है, कार्ड पा सकते हैं।\nकार्ड जारी होना राज्य रोलआउट चरण और गांव सत्यापन पूरा होने पर निर्भर करता है।",
+      "apply_en": "Check with panchayat or revenue office after drone survey publication and confirm your parcel details.\nSubmit correction request if needed and collect card when final list is approved.",
+      "apply_hi": "ड्रोन सर्वे प्रकाशन के बाद पंचायत या राजस्व कार्यालय में जाकर अपने प्लॉट विवरण की पुष्टि करें।\nजरूरत हो तो सुधार आवेदन दें और अंतिम सूची मंजूर होने पर कार्ड प्राप्त करें।"
+    },
+    "sugamya_bharat": {
+      "title_en": "Sugamya Bharat",
+      "title_hi": "सुगम्य भारत",
+      "description_en": "Sugamya Bharat improves accessibility in public buildings, transport points, and information systems for persons with disabilities.\nIt supports barrier-free movement through ramps, signage, and usable service access points.",
+      "description_hi": "सुगम्य भारत दिव्यांग जनों के लिए सार्वजनिक भवन, परिवहन स्थल और सूचना सेवाओं की पहुंच बेहतर बनाता है।\nरैंप, संकेत और सुगम सेवा बिंदुओं से बिना बाधा आवाजाही को व्यावहारिक समर्थन मिलता है।",
+      "eligibility_en": "Persons with disability certificates and institutions serving disability groups can seek support under approved accessibility actions.\nInclusion depends on local department scope and notified implementation component.",
+      "eligibility_hi": "दिव्यांग प्रमाणपत्र वाले नागरिक और दिव्यांग समूहों के साथ काम करने वाली संस्थाएं स्वीकृत पहुंच कार्यों के तहत सहायता मांग सकती हैं।\nशामिल किया जाना स्थानीय विभाग की सीमा और अधिसूचित घटक पर निर्भर करता है।",
+      "apply_en": "Submit request at district social justice office with disability proof and required facility details.\nFollow inspection steps and collect action update from implementing authority.",
+      "apply_hi": "जिला सामाजिक न्याय कार्यालय में दिव्यांग प्रमाण और आवश्यक सुविधा विवरण के साथ अनुरोध जमा करें।\nनिरीक्षण प्रक्रिया पूरी करें और कार्यान्वयन प्राधिकरण से कार्रवाई की स्थिति प्राप्त करें।"
+    },
+    "rashtriya_vayoshri": {
+      "title_en": "Rashtriya Vayoshri",
+      "title_hi": "राष्ट्रीय वयोश्री",
+      "description_en": "Rashtriya Vayoshri supplies assisted living devices to poor senior citizens facing age-related physical difficulties.\nIt improves daily movement, hearing, and vision support through distributed aid kits.",
+      "description_hi": "राष्ट्रीय वयोश्री उम्र संबंधी शारीरिक कठिनाई वाले गरीब वरिष्ठ नागरिकों को सहायक उपकरण उपलब्ध कराती है।\nइससे चलने-फिरने, सुनने और देखने में मदद देने वाले उपकरण रोजमर्रा जीवन आसान बनाते हैं।",
+      "eligibility_en": "Senior citizens in identified low-income categories with age-related disability and valid documents can be selected.\nBeneficiary selection is based on camp screening and district verification lists.",
+      "eligibility_hi": "पहचानी गई कम-आय श्रेणी के वरिष्ठ नागरिक जिनको उम्र संबंधी अक्षमता है और दस्तावेज मान्य हैं, चयनित हो सकते हैं।\nलाभार्थी चयन शिविर जांच और जिला सत्यापन सूची के आधार पर होता है।",
+      "apply_en": "Register at notified camp or social welfare office and provide age, income, and health-related records.\nAttend screening session and collect approved device kit on distribution date.",
+      "apply_hi": "सूचित शिविर या सामाजिक कल्याण कार्यालय में पंजीकरण करके आयु, आय और स्वास्थ्य संबंधी रिकॉर्ड जमा करें।\nस्क्रीनिंग सत्र में शामिल हों और वितरण तिथि पर स्वीकृत उपकरण किट प्राप्त करें।"
+    },
+    "pm_janman": {
+      "title_en": "PM JANMAN",
+      "title_hi": "पीएम जनमन",
+      "description_en": "PM JANMAN focuses on Particularly Vulnerable Tribal Groups through habitat-based delivery of essential services.\nIt improves access to housing, roads, documentation, and basic public facilities in remote settlements.",
+      "description_hi": "पीएम जनमन विशेष रूप से कमजोर जनजातीय समूहों तक आवास क्षेत्र आधारित आवश्यक सेवाएं पहुंचाने पर केंद्रित है।\nयह दूरस्थ बस्तियों में आवास, सड़क, दस्तावेज और मूल सार्वजनिक सुविधाओं की पहुंच सुधारता है।",
+      "eligibility_en": "Households belonging to notified PVTG communities in covered districts can be included under approved local plans.\nInclusion follows tribal department verification and habitation-level listing.",
+      "eligibility_hi": "कवर्ड जिलों में अधिसूचित PVTG समुदाय के परिवार स्वीकृत स्थानीय योजना में शामिल किए जा सकते हैं।\nशामिल करने की प्रक्रिया जनजातीय विभाग सत्यापन और बस्ती स्तर सूची पर आधारित होती है।",
+      "apply_en": "Contact tribal welfare office or camp team in your area and submit household identity details for listing.\nTrack inclusion status through local administration during implementation cycle.",
+      "apply_hi": "अपने क्षेत्र के जनजातीय कल्याण कार्यालय या शिविर दल से संपर्क कर परिवार पहचान विवरण सूचीकरण हेतु जमा करें।\nकार्यान्वयन अवधि में स्थानीय प्रशासन से शामिल होने की स्थिति नियमित रूप से जांचें।"
+    },
+    "pm_poshan": {
+      "title_en": "PM Poshan",
+      "title_hi": "पीएम पोषण",
+      "description_en": "PM Poshan provides cooked school meals to children in government and aided schools during working days.\nIt improves classroom attendance and supports better nutrition for school-age children.",
+      "description_hi": "पीएम पोषण के तहत सरकारी और सहायता प्राप्त स्कूलों में पढ़ने वाले बच्चों को कार्यदिवस में पका हुआ भोजन दिया जाता है।\nइससे उपस्थिति बेहतर होती है और स्कूली बच्चों के पोषण स्तर में सुधार आता है।",
+      "eligibility_en": "Children enrolled in eligible classes of participating government or aided schools can receive meal support.\nSchool attendance records and class enrollment define entitlement in the local roster.",
+      "eligibility_hi": "भाग लेने वाले सरकारी या सहायता प्राप्त स्कूलों की पात्र कक्षाओं में नामांकित बच्चे भोजन सहायता के हकदार होते हैं।\nस्थानीय रोस्टर में उपस्थिति रिकॉर्ड और कक्षा नामांकन के आधार पर पात्रता तय होती है।",
+      "apply_en": "Parents should ensure the child is enrolled in school and regularly marked in attendance register.\nCoordinate with school head for meal-related issues and service continuity updates.",
+      "apply_hi": "अभिभावक यह सुनिश्चित करें कि बच्चा स्कूल में नामांकित हो और उपस्थिति रजिस्टर में नियमित दर्ज हो।\nभोजन सेवा से संबंधित समस्या होने पर स्कूल प्रमुख से संपर्क करके निरंतरता सुनिश्चित करें।"
+    },
+    "eshram_portal": {
+      "title_en": "eShram Portal",
+      "title_hi": "ई-श्रम पोर्टल",
+      "description_en": "eShram creates a national database for unorganized workers to improve service targeting and benefit mapping.\nRegistered workers receive a unique labor ID that helps future scheme linking and support delivery.",
+      "description_hi": "ई-श्रम पोर्टल असंगठित श्रमिकों का राष्ट्रीय डेटाबेस बनाता है ताकि सेवाएं सही लोगों तक पहुंच सकें।\nपंजीकृत श्रमिक को एक श्रम पहचान संख्या मिलती है जिससे आगे योजनाओं से जोड़ना आसान होता है।",
+      "eligibility_en": "Unorganized workers in valid age range with Aadhaar and active mobile number can register on eShram.\nWorkers already covered under excluded organized categories are generally not enrolled.",
+      "eligibility_hi": "वैध आयु सीमा में असंगठित श्रमिक जिनके पास आधार और सक्रिय मोबाइल है, ई-श्रम पर पंजीकरण कर सकते हैं।\nसंगठित श्रेणी में पहले से कवर कुछ श्रमिक सामान्यतः इस पंजीकरण में शामिल नहीं किए जाते।",
+      "apply_en": "Register through CSC or eShram portal using Aadhaar authentication and personal work profile details.\nDownload labor card after successful verification and keep profile updated when occupation changes.",
+      "apply_hi": "CSC या ई-श्रम पोर्टल पर आधार प्रमाणीकरण के साथ व्यक्तिगत कार्य विवरण भरकर पंजीकरण करें।\nसत्यापन पूरा होने पर श्रम कार्ड डाउनलोड करें और काम बदलने पर प्रोफाइल अपडेट रखें।"
+    },
+    "ecourts_services": {
+      "title_en": "eCourts Services",
+      "title_hi": "ई-कोर्ट सेवाएं",
+      "description_en": "eCourts Services gives public access to case status, hearing dates, and court orders through online search tools.\nIt helps litigants follow proceedings without repeated court counter visits.",
+      "description_hi": "ई-कोर्ट सेवाओं से केस की स्थिति, अगली तारीख और आदेश ऑनलाइन खोज उपकरण से देखे जा सकते हैं।\nइससे पक्षकारों को बार-बार कोर्ट काउंटर जाने की जरूरत कम होती है।",
+      "eligibility_en": "Any litigant, advocate, or citizen with basic case details can use the public portal for status tracking.\nAccess depends on availability of case records in the connected court database.",
+      "eligibility_hi": "कोई भी पक्षकार, वकील या नागरिक मूल केस विवरण के साथ सार्वजनिक पोर्टल पर स्थिति देख सकता है।\nरिकॉर्ड उपलब्धता संबंधित न्यायालय डेटाबेस में डेटा अपलोड पर निर्भर करती है।",
+      "apply_en": "Open eCourts portal or app, enter case number, party name, or CNR number, and search record details.\nSave next hearing date and order copy reference for follow-up action.",
+      "apply_hi": "ई-कोर्ट पोर्टल या ऐप खोलकर केस नंबर, पक्षकार नाम या CNR नंबर दर्ज करें और रिकॉर्ड खोजें।\nअगली सुनवाई तिथि और आदेश संदर्भ सुरक्षित रखें ताकि आगे कार्रवाई सही समय पर हो सके।"
+    },
+    "cyber_safe_helpline": {
+      "title_en": "Cyber Safe Helpline",
+      "title_hi": "साइबर सुरक्षित हेल्पलाइन",
+      "description_en": "Cyber Safe Helpline 1930 supports quick reporting of online payment fraud and suspicious digital transactions.\nEarly reporting improves the chance of transaction hold and faster complaint routing.",
+      "description_hi": "साइबर सुरक्षित हेल्पलाइन 1930 ऑनलाइन भुगतान धोखाधड़ी और संदिग्ध डिजिटल लेनदेन की त्वरित रिपोर्टिंग में मदद करती है।\nजल्दी सूचना देने पर लेनदेन रोकने और शिकायत आगे बढ़ाने की संभावना बेहतर होती है।",
+      "eligibility_en": "Any person facing unauthorized online transfer, wallet misuse, or phishing-linked money loss can file complaint.\nComplaint quality depends on accurate transaction time, amount, and account trail details.",
+      "eligibility_hi": "कोई भी व्यक्ति जिसे अनधिकृत ऑनलाइन ट्रांसफर, वॉलेट दुरुपयोग या फिशिंग से धन हानि हुई हो, शिकायत दर्ज कर सकता है।\nशिकायत की प्रभावशीलता सही समय, राशि और खाता ट्रेल विवरण देने पर निर्भर करती है।",
+      "apply_en": "Call 1930 immediately and file details on cybercrime portal with transaction proof screenshots and account data.\nKeep complaint reference number and cooperate with follow-up requests from authorities.",
+      "apply_hi": "तुरंत 1930 पर कॉल करें और साइबर पोर्टल पर लेनदेन प्रमाण स्क्रीनशॉट तथा खाता विवरण के साथ शिकायत दर्ज करें।\nशिकायत संदर्भ संख्या सुरक्षित रखें और अधिकारियों की आगे की सूचना पर जरूरी जानकारी दें।"
+    },
+    "tb_mukt_campaign": {
+      "title_en": "TB Mukt Campaign",
+      "title_hi": "टीबी मुक्त अभियान",
+      "description_en": "TB Mukt Campaign promotes early detection and complete treatment adherence to reduce tuberculosis spread.\nIt links diagnosed patients with free medicine support and tracking through public health system.",
+      "description_hi": "टीबी मुक्त अभियान का उद्देश्य जल्द पहचान और पूरा उपचार सुनिश्चित करके क्षय रोग का प्रसार कम करना है।\nइससे मरीजों को सार्वजनिक स्वास्थ्य प्रणाली में मुफ्त दवा और नियमित निगरानी सहायता मिलती है।",
+      "eligibility_en": "Individuals diagnosed with tuberculosis at recognized health centers can be enrolled for treatment monitoring support.\nEnrollment requires valid patient registration in the notified TB tracking system.",
+      "eligibility_hi": "मान्यता प्राप्त स्वास्थ्य केंद्र में टीबी निदान वाले व्यक्ति उपचार निगरानी सहायता के लिए पंजीकृत किए जा सकते हैं।\nपंजीकरण के लिए अधिसूचित टीबी ट्रैकिंग प्रणाली में वैध रोगी रिकॉर्ड होना जरूरी है।",
+      "apply_en": "Visit government health facility for TB test and ensure your case is registered in tracking platform.\nFollow medicine schedule exactly and attend follow-up checks until treatment completion.",
+      "apply_hi": "सरकारी स्वास्थ्य केंद्र में टीबी जांच कराएं और सुनिश्चित करें कि आपका केस ट्रैकिंग प्लेटफॉर्म में दर्ज हो।\nदवा समय-सारिणी पूरी तरह पालन करें और उपचार समाप्ति तक फॉलो-अप जांच में शामिल रहें।"
+    },
+    "amrit_sarovar": {
+      "title_en": "Amrit Sarovar",
+      "title_hi": "अमृत सरोवर",
+      "description_en": "Amrit Sarovar restores and develops village water bodies for groundwater recharge and local climate resilience.\nIt supports community water storage, landscape improvement, and seasonal water availability.",
+      "description_hi": "अमृत सरोवर योजना गांव के जलाशयों का पुनर्जीवन और विकास करके भूजल पुनर्भरण को बढ़ाती है।\nइससे सामुदायिक जल भंडारण, स्थानीय पर्यावरण सुधार और मौसमी जल उपलब्धता बेहतर होती है।",
+      "eligibility_en": "Villages with identified pond sites in approved district plans can receive support for restoration activities.\nSite finalization depends on local survey, land status, and administrative sanction.",
+      "eligibility_hi": "स्वीकृत जिला योजना में चिन्हित तालाब स्थलों वाले गांव पुनर्जीवन कार्य के लिए सहायता पा सकते हैं।\nअंतिम स्थल चयन स्थानीय सर्वे, भूमि स्थिति और प्रशासनिक स्वीकृति पर निर्भर करता है।",
+      "apply_en": "Contact gram panchayat and request inclusion of local pond site in district execution proposal.\nParticipate in community monitoring and confirm work progress with local officials.",
+      "apply_hi": "ग्राम पंचायत से संपर्क करके स्थानीय तालाब स्थल को जिला कार्य प्रस्ताव में शामिल कराने का अनुरोध करें।\nसामुदायिक निगरानी में भाग लें और स्थानीय अधिकारियों से कार्य प्रगति की पुष्टि करते रहें।"
+    },
+    "pm_ebus_sewa": {
+      "title_en": "PM eBus Sewa",
+      "title_hi": "पीएम ईबस सेवा",
+      "description_en": "PM eBus Sewa supports deployment of electric city buses to improve clean urban public transport services.\nIt reduces fuel pollution and improves daily commute quality on planned city routes.",
+      "description_hi": "पीएम ईबस सेवा के तहत शहरों में इलेक्ट्रिक बसें बढ़ाकर स्वच्छ सार्वजनिक परिवहन को मजबूत किया जाता है।\nइससे ईंधन प्रदूषण घटता है और तय मार्गों पर रोजाना यात्रा सुविधा बेहतर होती है।",
+      "eligibility_en": "Cities selected under approved mobility plans can receive support for electric bus operations and related systems.\nCitizen access depends on route rollout, depot readiness, and local transport schedule activation.",
+      "eligibility_hi": "स्वीकृत शहरी गतिशीलता योजना में चुने गए शहर इलेक्ट्रिक बस संचालन और संबंधित तंत्र हेतु सहायता पा सकते हैं।\nनागरिक उपयोग मार्ग शुरू होने, डिपो तैयारी और स्थानीय समय-सारिणी सक्रिय होने पर निर्भर करता है।",
+      "apply_en": "Check city transport portal or bus app for active electric routes and timetable in your area.\nUse listed ticket method and board only from notified bus stops for service continuity.",
+      "apply_hi": "अपने शहर के परिवहन पोर्टल या बस ऐप में सक्रिय इलेक्ट्रिक रूट और समय-सारिणी जांचें।\nसूचीबद्ध टिकट विधि अपनाएं और सेवा निरंतरता के लिए केवल निर्धारित स्टॉप से यात्रा करें।"
+    },
+    "voter_id_services": {
+      "title_en": "Voter ID Services",
+      "title_hi": "मतदाता पहचान सेवाएं",
+      "description_en": "Voter ID Services allow citizens to enroll, correct details, and shift constituency records through election systems.\nIt keeps electoral roll data updated for smooth voting on polling day.",
+      "description_hi": "मतदाता पहचान सेवाओं से नागरिक नामांकन, विवरण सुधार और निर्वाचन क्षेत्र बदलाव प्रक्रिया पूरी कर सकते हैं।\nइससे मतदान दिवस पर मतदाता सूची रिकॉर्ड सही रहने में मदद मिलती है।",
+      "eligibility_en": "Citizens meeting voting age and residency conditions can apply for new enrollment or record correction.\nExisting voters can request transfer or update with valid identity and address proof.",
+      "eligibility_hi": "मतदान आयु और निवास शर्तें पूरी करने वाले नागरिक नया नामांकन या रिकॉर्ड सुधार के लिए आवेदन कर सकते हैं।\nमौजूदा मतदाता वैध पहचान और पता प्रमाण के साथ ट्रांसफर या अपडेट अनुरोध दे सकते हैं।",
+      "apply_en": "Use NVSP portal or voter service center to submit Form 6, 8, or transfer request with required documents.\nTrack application reference online and download updated voter details after approval.",
+      "apply_hi": "NVSP पोर्टल या मतदाता सेवा केंद्र पर आवश्यक दस्तावेज के साथ उपयुक्त फॉर्म जमा करें।\nआवेदन संदर्भ संख्या से स्थिति ट्रैक करें और स्वीकृति के बाद अपडेटेड मतदाता विवरण डाउनलोड करें।"
+    },
+    "passport_seva": {
+      "title_en": "Passport Seva",
+      "title_hi": "पासपोर्ट सेवा",
+      "description_en": "Passport Seva provides appointment-based passport issue, renewal, and record update through centralized processing centers.\nIt streamlines document scrutiny and police verification tracking for applicants.",
+      "description_hi": "पासपोर्ट सेवा के माध्यम से अपॉइंटमेंट आधारित पासपोर्ट जारी, नवीनीकरण और रिकॉर्ड अपडेट प्रक्रिया पूरी होती है।\nयह दस्तावेज जांच और पुलिस सत्यापन ट्रैकिंग को व्यवस्थित और तेज बनाती है।",
+      "eligibility_en": "Indian citizens with valid identity, address, and date-of-birth documents can apply under applicable passport category.\nSpecial categories require additional proofs as defined in official checklist.",
+      "eligibility_hi": "वैध पहचान, पता और जन्मतिथि दस्तावेज रखने वाले भारतीय नागरिक उपयुक्त पासपोर्ट श्रेणी में आवेदन कर सकते हैं।\nविशेष श्रेणियों में आधिकारिक चेकलिस्ट के अनुसार अतिरिक्त प्रमाणपत्र जरूरी होते हैं।",
+      "apply_en": "Create account on Passport Seva portal, fill application form, pay fee, and book PSK appointment slot.\nVisit center with originals, complete biometrics, and track dispatch after verification stages.",
+      "apply_hi": "Passport Seva पोर्टल पर खाता बनाकर फॉर्म भरें, शुल्क जमा करें और PSK अपॉइंटमेंट स्लॉट बुक करें।\nमूल दस्तावेज के साथ केंद्र जाएं, बायोमेट्रिक प्रक्रिया पूरी करें और सत्यापन चरण के बाद डिस्पैच ट्रैक करें।"
+    }
+  }
+}
